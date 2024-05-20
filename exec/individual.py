@@ -14,7 +14,6 @@ import threading
 
 e = 10e-7
 stepArray = [1]
-lock = threading.Lock()
 
 
 def calculateY(x):
